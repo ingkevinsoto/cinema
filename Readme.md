@@ -36,7 +36,7 @@ The following API endpoints are available for interaction:
 
 Follow these steps to set up the Movie Reservation System locally:
 
-1. Clone the repository:
+1. Clone the repository: git@github.com:ingkevinsoto/cinema.git
 2. Create a virtual environment and activate it:
 3. Install project dependencies:
 4. Apply database migrations:
